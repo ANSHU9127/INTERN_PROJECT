@@ -13,7 +13,7 @@ Everything you need in a modern bank and more.
 
 ## What is Bankist?
 
-Bankist is a fictional online bank. It is a project introduced by <a href="https://anshu9127.github.io/INTERN_PROJECT/"> ANSHU KUMAR</a> in order to practice DOM manipulation and user interaction. Bankist has the option to log in to the account and use different functionalities, almost like in an actual bank!
+Bankist is a fictional online bank. It is a project introduced by <a href="https://anshu9127.github.io/INTERN_PROJECT/">ANSHU KUMAR</a> in order to practice DOM manipulation and user interaction. Bankist has the option to log in to the account and use different functionalities, almost like in an actual bank!
 
 ## Functionalities
 
